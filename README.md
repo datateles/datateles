@@ -9,7 +9,7 @@ guiding us toward tomorrow’s brightest innovations.
 - 👀 **Interests**: Data pipelines, transformational analytics, and the art of turning raw information into meaningful insights. 
 - 🌱 **Currently learning**: Cutting-edge analytics engineering practices, advanced ETL strategies, and all things cloud orchestration.
 - 💞️ **Looking to collaborate on**: Any project that blends data, creativity, and forward-thinking solutions—especially ones that help communities and inspire growth.
-- 📫 **How to reach me**: Connect on [LinkedIn](https://www.linkedin.com/in/datateles) (placeholder link) or drop me a message right here on GitHub.
+- 📫 **How to reach me**: Connect on [LinkedIn](https://www.linkedin.com/in/datateles) or drop me a message right here on GitHub.
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I’m fascinated by the hidden poetry in numbers—how each dataset can whisper a new perspective on our shared world.
 
