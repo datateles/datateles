@@ -4,7 +4,7 @@
 ### About Me
 Business Intelligence / Data Engineer with experience building data solutions — currently building hands-on experience with the modern cloud data stack.
 
-- 👀 Interests: data pipelines, dimensional modelling, dashboarding, and turning messy data into something a business can actually use
+- 👀 Interests: data pipelines, dimensional modelling, dashboards, and turning messy data into something a business can actually use
 - 🌱 Currently learning: modern cloud data architecture — see my portfolio projects below
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/datateles)
 
